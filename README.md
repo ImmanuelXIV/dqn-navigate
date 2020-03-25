@@ -36,15 +36,16 @@ cd dqn-navigation/python
 pip install .
 ```
 
-3. If you do not run the code on a Mac OSX, download a different version of the ```Banana.app``` file, suitable for Widows, or Linux, place it in the dir, decompress it and change the `file_name` accordingly. 
+3. Download the Banana environment from one of the links below. You need only select the environment that matches your operating system. Place it in the `dqn-navigation/` dir, decompress it and change the `file_name` accordingly. 
 
 Downloads
+- Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
 - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
 - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
 - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
 Paths
-- **Mac**: `"path/to/Banana.app"` (in the git repo already)
+- **Mac**: `"path/to/Banana.app"`
 - **Windows** (x86): `"path/to/Banana_Windows_x86/Banana.exe"` 
 - **Windows** (x86_64): `"path/to/Banana_Windows_x86_64/Banana.exe"`
 - **Linux** (x86): `"path/to/Banana_Linux/Banana.x86"`

@@ -6,3 +6,6 @@
 
 # pyenv
 .python-version
+
+# Banana Unity env
+Banana.app
