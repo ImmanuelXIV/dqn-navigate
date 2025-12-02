@@ -1,6 +1,8 @@
 # Navigation via DQN
 This repository contains the implementation of a DQN algorithm and an agent to solve the Bananas environment. The simulation environment stems from [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents).
 
+<img src="banana.gif\" width="450" align="center" title="Bananas Unity environment">
+
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
 
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around agent's forward direction.  Given this information, the agent has to learn how to best select actions.  Four discrete actions are available, corresponding to:
